@@ -50,6 +50,6 @@
 
 }
 #textContainer{
-    position: absolute;
+    position: relative;
     left: 25%;
 }
