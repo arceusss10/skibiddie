@@ -18,4 +18,4 @@ setInterval(() => {
     textContainer.textContent = "text my nigga, he's waiting (,,>﹏<,,)";
     textContainer.style.visibility = (textContainer.style.visibility == 'hidden') ? 'visible' : 'hidden';
     
-}, 5000);
+}, 3000);
