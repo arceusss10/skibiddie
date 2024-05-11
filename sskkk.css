@@ -1,0 +1,55 @@
+#clockContainer{
+   position: relative;
+   margin: auto;
+   
+   height: 70vw;
+   width: 70vw;
+   background: url(2056.webp) no-repeat;
+   background-size: 100%;
+}
+
+/* #circle{
+    position: absolute;
+    width: 11%;
+    height: 10%;
+    border: 12%;
+    border-radius: 50%;
+    background-color: beige;
+    left: 43.5%;
+    top: 32%;
+}
+*/
+  #hour, #min, #sec{
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
+
+}
+#hour{
+    height: 5%;
+    width: 1.1%;
+    top: 34%;
+    left: 48.5%;
+    
+
+}
+#min{
+    height: 8%;
+    width: 1.1%;
+    top: 31%;
+    left: 48.5%;
+    
+   
+}
+#sec{
+    height: 10%;
+    width: 0.6%;
+    top: 29%;
+    left: 48.7%; 
+
+}
+#textContainer{
+    position: absolute;
+    left: 25%;
+}
