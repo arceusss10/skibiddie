@@ -13,9 +13,3 @@
     
 }, 1000);
 
-setInterval(() => {
-    var textContainer = document.getElementById('textContainer');
-    textContainer.textContent = "text my nigga, he's waiting (,,>﹏<,,)";
-    textContainer.style.visibility = (textContainer.style.visibility == 'hidden') ? 'visible' : 'hidden';
-    
-}, 3000);
