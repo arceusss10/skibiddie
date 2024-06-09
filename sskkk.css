@@ -4,21 +4,11 @@
    
    height: 70vw;
    width: 70vw;
-   background: url(2056.webp) no-repeat;
+ /* background: url(2056.webp) no-repeat; */
    background-size: 100%;
 }
 
-/* #circle{
-    position: absolute;
-    width: 11%;
-    height: 10%;
-    border: 12%;
-    border-radius: 50%;
-    background-color: beige;
-    left: 43.5%;
-    top: 32%;
-}
-*/
+
   #hour, #min, #sec{
     position: absolute;
     background: black;
